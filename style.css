@@ -1,0 +1,26 @@
+p{
+    margin:10px 0;
+    padding:0;
+}
+table{
+    border-collapse:collapse;
+}
+h1,h2,h3,h4,h5,h6{
+    display:block;
+    margin:0;
+    padding:0;
+}
+img,a img{
+    border:0;
+    height:400px;
+    
+    outline:none;
+    text-decoration:none;
+}
+body,#bodyTable,#bodyCell{
+    height:100%;
+    margin:0;
+    padding:0;
+    width:100%;
+    background-color: rgb(187, 189, 184);
+}
